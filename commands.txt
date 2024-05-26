@@ -1,1 +1,2 @@
 docker run --rm -v $PWD:/spec redocly/cli lint TMF620.yaml
+mvn compile for quarkus (mvn clean )
